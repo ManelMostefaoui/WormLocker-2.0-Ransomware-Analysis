@@ -84,5 +84,6 @@ This repository serves as a technical case study demonstrating the application o
 Cybersecurity Student | Higher School of Computer Science (ESI Sidi Bel Abbès)
 
 * GitHub: https://github.com/ManelMostefaoui
-* LinkedIn: https://www.linkedin.com/in/manel-mostefaoui
-* Email: [your-email@example.com](mailto:your-email@example.com)
+*LinkedIn: https://www.linkedin.com/in/manel-mostefaoui-b51ab6252
+*Email: ma.mostefaoui@esi-sba.dz
+
